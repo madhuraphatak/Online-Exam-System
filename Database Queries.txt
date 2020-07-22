@@ -1,0 +1,13 @@
+create table table_que(qid int primary key not null,que varchar(500),op1 varchar(300),op2 varchar(300),op3 varchar(300),op4 varchar(300),que_ans varchar(300));
+
+insert into table_que values(1,'The world smallest country is','Canada','Russia','Vatican City','New Zeland','Vatican City');
+
+insert into table_que values(2,'Novak Djokovic is a famous player associated with the game of','Hockey','Lawn Tennis','Cricket','Football','Lawn Tennis');
+
+insert into table_que values(3,'Which language is spoken in Karnataka?','Marathi','Kannada','Malayalam','Hindi','Kannada');
+
+insert into table_que values(4,' The currency notes are printed in','Nashik','Mumbai','New Delhi','Nagpur','Nashik');
+
+insert into table_que values(5,'What is the worlds most common religion?','Hinduism','Buddhism','Muslim','Christianity','Christianity');
+
+
